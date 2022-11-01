@@ -1,0 +1,141 @@
+{
+  "course": {
+    "current_name": "Курс 10 Шагов",
+    "current_begin_time": 1667595600, // 5-ое ноября
+    "current_end_time": 1670187600, // 5-ое декабря
+    "next_name": "Новый курс",
+    "next_begin_time": 1670619600, // 10-ое декабря
+    "next_end_time": 1673298000, // 10-ое января
+    "chapters": [
+      {
+        "chapter_id": 1,
+        "chapter_name": "Вступление",
+        "video_url": "https://appvideo.lazarev.ru/yt-shorts/praktila_rassvet_converted.mp4",
+        "image_url": "https://github.com/ONESECTOR/lazarev_json/blob/main/image_course.png",
+        "tasks": [
+          {
+            "task_id": 1,
+            "chapter_id": 1,
+            "task_description": "Постарайтесь на этой неделе накапливать энергию для осознания и изменения, заменяя негативные, агрессивные и разрушительные реакции, чувства и мысли на добродушные и позитивные.",
+            "background_color": "Green"
+          },
+          {
+            "task_id": 2,
+            "chapter_id": 1,
+            "task_description": "Постарайтесь на этой неделе накапливать энергию для осознания и изменения, заменяя негативные, агрессивные и разрушительные реакции, чувства и мысли на добродушные и позитивные.",
+            "background_color": "Blue"
+          },
+          {
+            "task_id": 3,
+            "chapter_id": 1,
+            "task_description": "Постарайтесь на этой неделе накапливать энергию для осознания и изменения, заменяя негативные, агрессивные и разрушительные реакции, чувства и мысли на добродушные и позитивные.",
+            "background_color": "Purple"
+          }
+        ],
+        "additional_materials": [
+          {
+            "chapter_id": 1,
+            "material_description": "Случайный текст похож на боевой клич героев",
+            "material_url": "https://www.figma.com/file/zaoAGPzQfu6uegxQC3Cycd/Lazarev-app?node-id=0%3A1"
+          },
+          {
+            "chapter_id": 1,
+            "material_description": "Случайный текст похож на боевой клич героев",
+            "material_url": "https://www.figma.com/file/zaoAGPzQfu6uegxQC3Cycd/Lazarev-app?node-id=0%3A1"
+          },
+          {
+            "chapter_id": 1,
+            "material_description": "Случайный текст похож на боевой клич героев",
+            "material_url": "https://www.figma.com/file/zaoAGPzQfu6uegxQC3Cycd/Lazarev-app?node-id=0%3A1"
+          }
+        ]
+      },
+      {
+        "chapter_id": 2,
+        "chapter_name": "Прощение и раскаяние",
+        "video_url": "https://appvideo.lazarev.ru/yt-shorts/praktila_rassvet_converted.mp4",
+        "image_url": "https://github.com/ONESECTOR/lazarev_json/blob/main/image_course.png",
+        "tasks": [
+          {
+            "task_id": 1,
+            "chapter_id": 2,
+            "task_description": "Постарайтесь на этой неделе накапливать энергию для осознания и изменения, заменяя негативные, агрессивные и разрушительные реакции, чувства и мысли на добродушные и позитивные.",
+            "background_color": "Green"
+          },
+          {
+            "task_id": 2,
+            "chapter_id": 2,
+            "task_description": "Постарайтесь на этой неделе накапливать энергию для осознания и изменения, заменяя негативные, агрессивные и разрушительные реакции, чувства и мысли на добродушные и позитивные.",
+            "background_color": "Blue"
+          },
+          {
+            "task_id": 3,
+            "chapter_id": 2,
+            "task_description": "Постарайтесь на этой неделе накапливать энергию для осознания и изменения, заменяя негативные, агрессивные и разрушительные реакции, чувства и мысли на добродушные и позитивные.",
+            "background_color": "Purple"
+          }
+        ],
+        "additional_materials": [
+          {
+            "chapter_id": 2,
+            "material_description": "Случайный текст похож на боевой клич героев",
+            "material_url": "https://www.figma.com/file/zaoAGPzQfu6uegxQC3Cycd/Lazarev-app?node-id=0%3A1"
+          },
+          {
+            "chapter_id": 2,
+            "material_description": "Случайный текст похож на боевой клич героев",
+            "material_url": "https://www.figma.com/file/zaoAGPzQfu6uegxQC3Cycd/Lazarev-app?node-id=0%3A1"
+          },
+          {
+            "chapter_id": 2,
+            "material_description": "Случайный текст похож на боевой клич героев",
+            "material_url": "https://www.figma.com/file/zaoAGPzQfu6uegxQC3Cycd/Lazarev-app?node-id=0%3A1"
+          }
+        ]
+      },
+      {
+        "chapter_id": 3,
+        "chapter_name": "Главные враги человека - домашние его (прощение родителей и близких)",
+        "video_url": "https://appvideo.lazarev.ru/yt-shorts/praktila_rassvet_converted.mp4",
+        "image_url": "https://github.com/ONESECTOR/lazarev_json/blob/main/image_course.png",
+        "tasks": [
+          {
+            "task_id": 1,
+            "chapter_id": 3,
+            "task_description": "Постарайтесь на этой неделе накапливать энергию для осознания и изменения, заменяя негативные, агрессивные и разрушительные реакции, чувства и мысли на добродушные и позитивные.",
+            "background_color": "Green"
+          },
+          {
+            "task_id": 2,
+            "chapter_id": 3,
+            "task_description": "Постарайтесь на этой неделе накапливать энергию для осознания и изменения, заменяя негативные, агрессивные и разрушительные реакции, чувства и мысли на добродушные и позитивные.",
+            "background_color": "Blue"
+          },
+          {
+            "task_id": 3,
+            "chapter_id": 3,
+            "task_description": "Постарайтесь на этой неделе накапливать энергию для осознания и изменения, заменяя негативные, агрессивные и разрушительные реакции, чувства и мысли на добродушные и позитивные.",
+            "background_color": "Purple"
+          }
+        ],
+        "additional_materials": [
+          {
+            "chapter_id": 3,
+            "material_description": "Случайный текст похож на боевой клич героев",
+            "material_url": "https://www.figma.com/file/zaoAGPzQfu6uegxQC3Cycd/Lazarev-app?node-id=0%3A1"
+          },
+          {
+            "chapter_id": 3,
+            "material_description": "Случайный текст похож на боевой клич героев",
+            "material_url": "https://www.figma.com/file/zaoAGPzQfu6uegxQC3Cycd/Lazarev-app?node-id=0%3A1"
+          },
+          {
+            "chapter_id": 3,
+            "material_description": "Случайный текст похож на боевой клич героев",
+            "material_url": "https://www.figma.com/file/zaoAGPzQfu6uegxQC3Cycd/Lazarev-app?node-id=0%3A1"
+          }
+        ]
+      }
+    ]
+  }
+}
